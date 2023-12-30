@@ -12,3 +12,4 @@ https://ka-f.fontawesome.com/releases/v5.15.4/css/free-v4-shims.min.css?token=93
 https://blog.aryanaryal.com.np/nav-toggle.js?h=b13a4960104d7cfec234
 https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.woff2
 https://blog.aryanaryal.com.np/favicon.png
+https://blog.aryanaryal.com.np/rss.xml
